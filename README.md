@@ -2,8 +2,8 @@
 
 Developer Full-stack @Monitora
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Julio%20Chiuchi&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjuliochiuchi)
-![Twitter URL](https://img.shields.io/twitter/url?label=Julio%20Chiuchi&logo=linkedin&style=social&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fjuliochiuchi)
+![Twitter URL](https://img.shields.io/twitter/url?label=Julio%20Chiuchi&logo=twitter&style=social&url=https://twitter.com/juliochiuchi)
+![Linkedin URL](https://img.shields.io/twitter/url?label=Julio%20Chiuchi&logo=linkedin&style=social&url=https://br.linkedin.com/juliochiuchi)
 
 Bora jogar Magic The Gathering?
 

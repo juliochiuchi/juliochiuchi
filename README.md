@@ -3,8 +3,8 @@
 Developer Full-stack @Monitora
 
 <p align="left">
-<a href="https://twitter.com/juliochiuchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juliochiuchi" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/juliochiuchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliochiuchi" height="20" width="20" /></a>
+<a href="https://twitter.com/juliochiuchi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juliochiuchi" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/juliochiuchi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliochiuchi" height="20" width="20" /></a>
 </p>
 
 

@@ -1,4 +1,10 @@
-### Hi there 👋
+# Julio Chiuchi ⚡️ 
+
+Developer Full-stack @Monitora
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/juliochiuchi)](https://twitter.com/juliochiuchi) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliochiuchi/)](https://www.linkedin.com/in/juliochiuchi/)
+
+Bora jogar Magic The Gathering?
 
 <!--
 **juliochiuchi/juliochiuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

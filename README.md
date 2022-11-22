@@ -1,6 +1,6 @@
 # Julio Chiuchi ⚡️ 
 
-Developer Front-End @Monitora
+Front-End Developer @Monitora
 
 <p align="left">
 <a href="https://twitter.com/juliochiuchi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juliochiuchi" height="20" width="20" /></a>

@@ -1,4 +1,4 @@
-# ⚡ Software Engineer Frontendl
+# ⚡ Software Engineer Frontend
 🔭 I’m currently working on Marlabs Brazil
 
 
